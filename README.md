@@ -5,19 +5,17 @@
 ###
 
 <h3 align="left">Connect and follow me on:</h3>
-<p align="left">
-<a style="padding-right:15px" href="https://linkedin.com/in/tristan-teiki" target="blank">
-  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a>
-  <img width="15px" />
-<a style="padding-right:15px" href="https://www.youtube.com/@teiki404" target="blank">
-  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />
-</a>
-  <img width="15px" />
-<a style="padding-right:15px" href="https://www.twitch.tv/teiki404" target="blank">
-  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" />
-</a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/tristan-teiki" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@teiki404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/teiki404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+</div>
 
 ###
 
