@@ -9,9 +9,11 @@
 <a style="padding-right:15px" href="https://linkedin.com/in/tristan-teiki" target="blank">
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
+  <img width="15px" />
 <a style="padding-right:15px" href="https://www.youtube.com/@teiki404" target="blank">
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />
 </a>
+  <img width="15px" />
 <a style="padding-right:15px" href="https://www.twitch.tv/teiki404" target="blank">
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" />
 </a>
@@ -53,4 +55,10 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mrteiki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrteiki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mrteiki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
