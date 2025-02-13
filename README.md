@@ -1,6 +1,6 @@
 <img width="100px" src="https://i.imgur.com/rk9CW9u.png" />
 <h1 align="left">Hi 👋, I'm Tristan Panco (Teiki)</h1>
-<h3 align="left">Full-Stack Developer, CEO at TEIKI & CS Teacher</h3>
+<h3 align="left">Full-Stack Developer at TEIKISOFT & CS Teacher</h3>
 
 ###
 
